@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+### 个人信息
+**刘蓓茜**
+前端工程师
+1991 | 4年工作经验 | 17710838693 | liubeixidev@163.com
 
-You can use the [editor on GitHub](https://github.com/Seacyz/Seacyz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育背景
+河北理工大学        计算机与科学        2009.09-2013.06
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作经历
+左启科技(北京)有限公司        前端工程师        2017.03-2018.09
+- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. 
+- The name of this theme is saved in the Jekyll _config.yml configuration file.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
