@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to LiuBeiXi Resume
+#### 刘蓓茜
+一句话描述自己
 
 You can use the [editor on GitHub](https://github.com/Seacyz/Seacyz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
